@@ -1,1 +1,2 @@
-# my_new_repo
+# My New Project
+This is a test project.
